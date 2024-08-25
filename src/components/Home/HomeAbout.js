@@ -5,7 +5,7 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Socials from "./Socials";
 
-function Home2() {
+function HomeAbout() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
@@ -19,7 +19,7 @@ function Home2() {
               }}
             >
               <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-                Get to know <strong className="purple">ME</strong>
+                About <strong className="purple">ME</strong>
               </h1>
               <Aboutcard />
             </Col>
@@ -41,4 +41,4 @@ function Home2() {
     </Container>
   );
 }
-export default Home2;
+export default HomeAbout;
