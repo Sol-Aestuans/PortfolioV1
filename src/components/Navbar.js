@@ -9,8 +9,7 @@ import { CgGitFork } from "react-icons/cg";
 import {
   AiFillStar,
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
+  AiOutlineFundProjectionScreen
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -55,16 +54,6 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
-              </Nav.Link>
-            </Nav.Item>
-
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/about"
-                onClick={() => updateExpanded(false)}
-              >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
             </Nav.Item>
 
