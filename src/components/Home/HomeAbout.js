@@ -18,7 +18,7 @@ function HomeAbout() {
               }}
             >
               <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-                About <strong className="purple">ME</strong>
+                About <strong className="blue">ME</strong>
               </h1>
               <Aboutcard />
             </Col>
@@ -31,7 +31,7 @@ function HomeAbout() {
             </Col>
           </Row>
           <h1 className="project-heading">
-            Technical <strong className="purple">Skillset </strong>
+            Technical <strong className="blue">Skillset </strong>
           </h1>
 
           <Techstack />

@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hello, my name is <span className="purple">Aidan Ainsworth </span>
-            and I currently live in <span className="purple"> Seattle, Washington.</span> I'm a proud PNW native.
+            Hello, my name is <span className="blue">Aidan Ainsworth </span>
+            and I currently live in <span className="blue"> Seattle, Washington.</span> I'm a proud PNW native.
             <br />
-            I'm a recent graduate from <span className="purple">Western Washington University</span> with a B.S. in Computer Science and minor in Mathematics. 
+            I'm a recent graduate from <span className="blue">Western Washington University</span> with a B.S. in Computer Science and minor in Mathematics. 
             <br />
-            I am currently seeking entry-level employment in <span className="purple">Software Development, Cloud Computing, IT Application Development, Quality Assurance, and Network Services.</span>
+            I am currently seeking entry-level employment in <span className="blue">Software Development, Cloud Computing, IT Application Development, Quality Assurance, and Network Services.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -30,7 +30,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgba(44, 61, 156, 0.459)" }}>
             "Continuous improvement is better than delayed perfection."{" "}
           </p>
           <footer className="blockquote-footer">Mark Twain</footer>
