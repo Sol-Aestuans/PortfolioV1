@@ -3,7 +3,7 @@ import { Col, Row } from "react-bootstrap";
 import {
   DiReact,
   DiNodejs,
-  DiPython,
+  DiUnitySmall,
   DiJava,
 } from "react-icons/di";
 import {
@@ -53,7 +53,7 @@ function Techstack() {
         <SiGraphql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <DiUnitySmall />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql />

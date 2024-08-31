@@ -23,7 +23,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Mobile clock app"
-              description="Built using React for iOS & Android"
+              description="Developed a dynamic clock app for iOS and Android using React Native. Integrated various APIs to enhance features, including daily quotes, dynamic backgrounds, location-based adjustments, and real-time time updates."
               ghLink="https://github.com/Sol-Aestuans/Mobile-clock-app"
             />
           </Col>
@@ -32,8 +32,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Toy OS"
-              description="Built using KPL and Blitz"
+              title="BLITZ OS"
+              description="Developed the BLITZ toy Operating System using the low-level C-like Kernel Programming Language (KPL). Implemented essential features such as thread, frame, and process management, along with system call handling."
               ghLink="https://github.com/Sol-Aestuans/KPL-Blitz-OS"
             />
           </Col>
@@ -43,7 +43,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Cyber Wargame Engine"
-              description="Built using Strapi, Node.js, GraphQl, & Next.js"
+              description="Designed, developed, and deployed a prototype game engine on WWU's private cloud in a group of 4. The engine features an extensible backend powered by Strapi headless CMS and Node.js, with GraphQL and Next.js driving the frontend. The game supports two teams of four players competing to uncover and corrupt each other's critical networks."
               ghLink="https://github.com/Sol-Aestuans/CyberWargame"       
             />
           </Col>
@@ -53,7 +53,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Word guessing game"
-              description="Multi client game using C and network protocol libraries"
+              description="Developed a multi-client word guessing game with intricate logic using the C programming language. Leveraged network protocol libraries, including sockets, for seamless communication between clients and the server."
               ghLink="https://github.com/Sol-Aestuans/Multi-client-word-game"
             />
           </Col>
@@ -62,9 +62,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="SURLY relational DB"
-              description="Miniature relational DB built using Java"
-              ghLink="https://github.com/Sol-Aestuans/Mini-relational-DB"
+              title="Deadwood virtual Boardgame"
+              description="Developed a virtual rendition of the board game Deadwood using Java and Java Swing. Implemented complex game logic and applied object-oriented design principles such as inheritance, encapsulation, and polymorphism to create a modular and scalable product."
+              ghLink="https://github.com/Sol-Aestuans/Deadwood-digital-board-game"
             />
           </Col>
 
@@ -73,7 +73,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="AWS based tic-tac-toe"
-              description="Cloud tech..."
+              description="Developed a cloud based tic-tac-toe using AWS, javascript, API's, and python. Leverages AWS' cognito user pools, verification..."
               ghLink="https://github.com/Sol-Aestuans/Cloud-tic-tac-toe" 
             />
           </Col>
