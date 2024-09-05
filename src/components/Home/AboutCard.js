@@ -29,7 +29,7 @@ function AboutCard() {
               <ImPointRight /> Getting Active
             </li>
           </ul>
-
+          <br/>
           <p className="blockquote-footer">
             "Continuous improvement is better than delayed perfection."{" "}
           </p>
