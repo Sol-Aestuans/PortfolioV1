@@ -22,7 +22,7 @@ function Projects() {
             <ProjectCard
               imgPath={mobileApp}
               isBlog={false}
-              title="Mobile clock app"
+              title="Mobile Clock App"
               description="Developed a dynamic clock app for iOS and Android using React Native. Integrated various APIs to enhance features, including daily quotes, dynamic backgrounds, location-based adjustments, and real-time time updates."
               ghLink="https://github.com/Sol-Aestuans/Mobile-clock-app"
             />
@@ -52,7 +52,7 @@ function Projects() {
             <ProjectCard
               imgPath={wordGame}
               isBlog={false}
-              title="Word guessing game"
+              title="Word Guessing Game"
               description="Developed a multi-client word guessing game with intricate logic using the C programming language. Leveraged network protocol libraries, including sockets, for seamless communication between clients and the server."
               ghLink="https://github.com/Sol-Aestuans/Multi-client-word-game"
             />
@@ -62,7 +62,7 @@ function Projects() {
             <ProjectCard
               imgPath={boardGame}
               isBlog={false}
-              title="Deadwood virtual Boardgame"
+              title="Deadwood Virtual Boardgame"
               description="Developed a virtual rendition of the board game Deadwood using Java and Java Swing. Implemented complex game logic and applied object-oriented design principles such as inheritance, encapsulation, and polymorphism to create a modular and scalable product."
               ghLink="https://github.com/Sol-Aestuans/Deadwood-digital-board-game"
             />
@@ -72,7 +72,7 @@ function Projects() {
             <ProjectCard
               imgPath={ticTacToe}
               isBlog={false}
-              title="AWS based tic-tac-toe"
+              title="AWS Tic-Tac-Toe"
               description="Developed a cloud-based Tic-Tac-Toe game using AWS, JavaScript, APIs, and Python. Leveraged AWS services like Cognito User Pools for secure user authentication, SES for real-time email notifications, and APIs for database interactions. Additionally, created a Python CLI for playing the game."
               ghLink="https://github.com/Sol-Aestuans/Cloud-tic-tac-toe" 
             />
