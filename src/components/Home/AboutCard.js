@@ -30,7 +30,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgba(44, 61, 156, 0.459)" }}>
+          <p className="blockquote-footer">
             "Continuous improvement is better than delayed perfection."{" "}
           </p>
           <footer className="blockquote-footer">Mark Twain</footer>
