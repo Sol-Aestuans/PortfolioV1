@@ -13,20 +13,20 @@ function AboutCard() {
             <br />
             I'm a recent graduate from <span className="blue">Western Washington University</span> with a B.S. in Computer Science and minor in Mathematics. 
             <br />
-            I am currently seeking entry-level employment in <span className="blue">Software Development, Cloud Computing, IT Application Development, Quality Assurance, and Network Services.</span>
+            I'm currently seeking opportunities in <span className="blue">Software Development, Cloud Computing, Web & Mobile Development, IT Application Development, Quality Assurance, and Network Services.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Card, Board, & Video games!
+              <ImPointRight /> Playing Card, Board, & Video games 🎲
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cooking & Baking
+              <ImPointRight /> Cooking & Baking 🍳
             </li>
             <li className="about-activity">
-              <ImPointRight /> Getting Active
+              <ImPointRight /> Getting Active 🚲
             </li>
           </ul>
           <br/>
