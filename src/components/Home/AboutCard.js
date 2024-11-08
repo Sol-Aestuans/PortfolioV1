@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I'm a recent graduate from <span className="blue">Western Washington University</span> with a B.S. in Computer Science and minor in Mathematics. 
             <br />
-            I'm currently seeking opportunities in <span className="blue">Software Development, Cloud Computing, Web & Mobile Development, IT Application Development, Quality Assurance, and Network Services.</span>
+            I'm currently seeking opportunities in <span className="blue">Software Development or Support in my areas of interest: Cloud Computing, Web & Mobile Development, IT Application Development, Automation Testing, and Network Services.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
