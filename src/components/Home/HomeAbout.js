@@ -36,7 +36,6 @@ function HomeAbout() {
           </h1>
 
           <Techstack />
-          <Github />
       </Container>
     </Container>
   );
