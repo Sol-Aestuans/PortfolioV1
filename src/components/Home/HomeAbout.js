@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import Github from "./Github";
 import laptopImg from "../../Assets/about.png";
 
 function HomeAbout() {
